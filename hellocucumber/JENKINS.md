@@ -27,6 +27,7 @@ Le projet est déjà configuré pour générer les rapports nécessaires :
 #### Source Code Management
 - Si votre code est dans Git, configurez la section "Source Code Management"
 - Ajoutez l'URL de votre dépôt Git
+- **IMPORTANT** : Vérifiez le nom de la branche ! Si votre branche est `main` et non `master`, configurez `*/main` dans "Branches to build"
 
 #### Build Steps
 
