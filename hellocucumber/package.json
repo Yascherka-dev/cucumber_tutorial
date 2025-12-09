@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "cucumber-js"
+    "test": "mkdir -p reports && cucumber-js",
+    "test:jenkins": "mkdir -p reports && cucumber-js"
   },
   "keywords": [],
   "author": "",

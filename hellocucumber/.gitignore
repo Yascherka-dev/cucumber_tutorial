@@ -1,0 +1,6 @@
+# Rapports générés
+reports/
+
+# Node modules (si pas déjà ignoré)
+node_modules/
+
